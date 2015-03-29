@@ -1,0 +1,15 @@
+/*
+Theme Name: WP Bootstrap
+Description: A customized theme specifically for Faith Fellowship Aurora
+Author: Faith Fellowship Aurora
+Author URI: http://faithfellowship.org.ph/
+Version: 1.0
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This simple theme was built using the example Bootstrap theme found on the Bootstrap web site http://twitter.github.com/bootstrap/examples/hero.html
+*/
+
+@import url('bootstrap/css/bootstrap.css');
